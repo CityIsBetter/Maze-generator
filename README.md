@@ -2,7 +2,7 @@
 
 This is a Maze generator and solution finder made using python. This uses Randomized depth-first search Algorithm and Recursive implementation.
 
-![maze-generator](maze generator.gif)
+![maze-generator](maze-generator.gif)
 
 ## Installation:
 
